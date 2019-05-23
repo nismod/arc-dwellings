@@ -47,3 +47,13 @@ in git history.
   - `expansion.csv` - tidy version of `Scenario Expansion - Dwelling+Employment projections.xlsx`
   - `settlements.csv` - tidy version of `Scenario New Settlements - Dwelling+Employment projections.xlsx`
   - `unplanned.csv` - tidy version of `Scenario Unplanned Development - Dwelling+Employment projections.xlsx`
+
+## Acknowledgements
+
+Authors:
+- Adrian Hickford
+- Will Usher
+- Tom Russell
+
+Developed at the University of Southampton and the University of Oxford Environmental Change Institute, funded by the EPSRC via the Infrastructure Transitions Research Consortium Mistral project (EP/N017064/1).
+
