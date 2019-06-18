@@ -17,11 +17,11 @@ Here we take the overall growth trends from scenario 0 but more strongly cluster
 employment to the LADs that either host or are closely connected to the 5 new cities in the
 scenario, distributed as follows:
 
-- Newtown 01 Cherwell
-- Newtown 02 Aylesbury Vale
-- Newtown 03 Central Bedfordshire
-- Newtown 04 South Cambridgeshire
-- Newtown 05 Huntingdonshire
+- Newtown 01 Cherwell (North of Bicester)
+- Newtown 02 Aylesbury Vale (South of Winslow)
+- Newtown 03 Central Bedfordshire (North of Cranfield)
+- Newtown 04 Central Bedfordshire (East of Sandy)
+- Newtown 05 South Cambridgeshire (North of Bassingbourn)
 
 ### Scenario 2 - Expansion
 
